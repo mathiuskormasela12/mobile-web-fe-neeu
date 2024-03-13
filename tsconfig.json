@@ -8,7 +8,8 @@
       "@Stores": ["stores"],
       "@Types": ["types"],
       "@Interfaces": ["interfaces"],
-      "@Utils": ["utils"]
+      "@Utils": ["utils"],
+      "@Scripts": ["scripts"]
     }
   }
 }
