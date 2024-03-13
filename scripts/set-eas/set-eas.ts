@@ -108,5 +108,3 @@ export const setEas: SetEas = async ({ writeFile, config }) => {
     throw new Error(message)
   }
 }
-
-export default setEas
