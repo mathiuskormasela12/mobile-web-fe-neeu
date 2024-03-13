@@ -1,7 +1,7 @@
 import fs from 'fs/promises'
 import process from 'process'
 import { type IConfig } from '@Interfaces'
-import setEnv from './set-env'
+import { setEnv } from './set-env'
 import { type AppVariant } from '@Types'
 
 setEnv({
